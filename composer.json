@@ -1,5 +1,5 @@
 {
-    "name": "owenvoke/blade-fontawesome",
+    "name": "bugo/blade-fontawesome",
     "type": "library",
     "description": "A package to easily make use of Font Awesome in your Laravel Blade views",
     "license": "MIT",
