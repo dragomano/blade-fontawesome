@@ -30,9 +30,9 @@ To remove a default pro icon set, set the value to `false`. For example:
 
 Laravel `12` or higher is now required.
 
-### PHP 8.4 required
+### PHP 8.2 required
 
-PHP `8.4` or higher is now required.
+PHP `8.2` or higher is now required.
 
 ## 2.x
 
