@@ -11,15 +11,9 @@ A package to easily make use of [Font Awesome](https://fontawesome.com) in your 
 
 For a full list of available icons see [the SVG directory](./resources/svg).
 
-## Documentation for older versions
+## Note
 
-You are reading the documentation for `3.x` which uses Font Awesome 7.
-
-If you're wanting Font Awesome 6, please see the [docs for 2.x][link-2.x-docs].
-
-If you're using Laravel 8 or below, please see the [docs for 1.x][link-1.x-docs].
-
-Please see the [upgrade guide](UPGRADE.md) for information on how to upgrade to the latest version.
+This is a fork of the package [owenvoke/blade-fontawesome](https://github.com/owenvoke/blade-fontawesome), created specifically for those who are not yet ready to upgrade to PHP 8.4+.
 
 ## Requirements
 
@@ -31,7 +25,7 @@ Please see the [upgrade guide](UPGRADE.md) for information on how to upgrade to 
 Via Composer
 
 ```shell
-composer require owenvoke/blade-fontawesome
+composer require bugo/blade-fontawesome
 ```
 
 ## Configuration
