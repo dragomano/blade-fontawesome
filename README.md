@@ -13,7 +13,7 @@ For a full list of available icons see [the SVG directory](./resources/svg).
 
 ## Note
 
-This is a fork of the package [owenvoke/blade-fontawesome](https://github.com/owenvoke/blade-fontawesome), created specifically for those who are not yet ready to upgrade to PHP 8.4+.
+This is a fork of the package [owenvoke/blade-fontawesome](https://github.com/owenvoke/blade-fontawesome), created specifically for those who are not yet ready to upgrade to PHP 8.3+.
 
 ## Requirements
 
@@ -171,12 +171,12 @@ You can buy trees [here][link-treeware-gifting].
 
 Read more about Treeware at [treeware.earth][link-treeware].
 
-[ico-version]: https://img.shields.io/packagist/v/owenvoke/blade-fontawesome.svg?style=flat-square
+[ico-version]: https://img.shields.io/packagist/v/bugo/blade-fontawesome.svg?style=flat-square
 [ico-license]: https://img.shields.io/badge/license-MIT-brightgreen.svg?style=flat-square
 [ico-github-actions]: https://img.shields.io/github/actions/workflow/status/owenvoke/blade-fontawesome/tests.yml?branch=main&style=flat-square&label=Tests
 [ico-static-analysis]: https://img.shields.io/github/actions/workflow/status/owenvoke/blade-fontawesome/static.yml?branch=main&style=flat-square&label=Static%20Analysis
 [ico-styleci]: https://styleci.io/repos/274363158/shield
-[ico-downloads]: https://img.shields.io/packagist/dt/owenvoke/blade-fontawesome.svg?style=flat-square
+[ico-downloads]: https://img.shields.io/packagist/dt/bugo/blade-fontawesome.svg?style=flat-square
 [ico-treeware-gifting]: https://img.shields.io/badge/Treeware-%F0%9F%8C%B3-lightgreen?style=flat-square
 
 [link-packagist]: https://packagist.org/packages/owenvoke/blade-fontawesome
